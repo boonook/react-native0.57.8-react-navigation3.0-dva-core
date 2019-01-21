@@ -1,0 +1,3 @@
+rootProject.name = 'dva_core'
+
+include ':app'
